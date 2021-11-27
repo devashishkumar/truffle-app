@@ -31,3 +31,8 @@ Open Ganache server in local machine before executing the command
 `
 
 truffle migrate
+
+### changing any existing contract and migrate it to Ganache
+
+truffle migrate --reset
+
